@@ -1,3 +1,7 @@
-Still a work in progress, I've commented out the code so that there is my work for each of the first 4 stages,
-I wanted it to be in the same file but it is getting a bit cluttered so I'll be uploading 2 separate files,
-one already uploaded for stages 1 through 4 and one for the last 2 stages, the fifth and the sixth one.
+Finalized the project, this repository contains each and every iteration of the code, the first four being in the
+.java file, and the rest having their own folders; sixth project done with java, ranked "hard" on Hyperskill.
+(not important, old version of the readme)
+/// Still a work in progress, I've commented out the code so that there is my work for each of the first 4 stages,
+/// I wanted it to be in the same file but it is getting a bit cluttered so I'll be uploading 2 separate files,
+/// one already uploaded for stages 1 through 4 and one for the last 2 stages, the fifth and the sixth one.
+(not important, old version of the readme)
